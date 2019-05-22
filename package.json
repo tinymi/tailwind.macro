@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/bradlc/tailwind.macro#readme",
   "dependencies": {
-    "babel-plugin-tailwind-components": "tinymi/babel-plugin-tailwind-components#next"
+    "babel-plugin-tailwind-components": "next"
   }
 }
